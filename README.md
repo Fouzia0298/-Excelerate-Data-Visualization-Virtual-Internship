@@ -3,7 +3,9 @@
 ## 📌 Overview
 This project was completed as part of the **Excelerate Data Visualization Virtual Internship**. Over four weeks, our team transformed raw datasets into **meaningful insights** through data cleaning, analysis, visualization, and storytelling.  
 The final outcome was an **interactive Looker Studio dashboard** and a **presentation for stakeholders**, enabling data-driven decision-making.
-
+<p align="center">
+  <img src="Cover.png"  width="700"/>
+</p>
 ---
 
 ## 🎯 Objectives
@@ -96,10 +98,13 @@ A professional, data-driven dashboard and presentation showcasing our ability to
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](Week 4/Dashboard Images/Week_4_Dashboard_00.png)
-![Dashboard Preview](Week 4/Dashboard Images/Week_4_Dashboard_01.png)
-![Dashboard Preview](Week 4/Dashboard Images/Week_4_Dashboard_02.png)
-![Dashboard Preview](Week 4/Dashboard Images/Week_4_Dashboard_03.png)
+<p align="center">
+  <img src="Week 4/Dashboard Images/Week_4_Dashboard_00.png"  width="400"/>
+  <img src="Week 4/Dashboard Images/Week_4_Dashboard_01.png"  width="400"/>
+<img src="Week 4/Dashboard Images/Week_4_Dashboard_02.png"  width="400"/>
+  <img src="Week 4/Dashboard Images/Week_4_Dashboard_03.png"  width="400"/>
+</p>
+
 
 ---
 
